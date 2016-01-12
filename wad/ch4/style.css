@@ -1,9 +1,0 @@
-.comments p:nth-child(even) {
-  background: lavender;
-}
-.comments p:nth-child(odd) {
-  background: blue;
-}
-.comment-input span:hover {
-  cursor: pointer;
-}
